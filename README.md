@@ -6,6 +6,8 @@ One funny single-line reply from a hopeless tech support agent to a desperate cu
 
 The program (`main.ts`, Node 22, standard library only) writes exactly that line — and nothing else — to `/output/entry.txt`.
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun) [![Agent](https://make.fun/badge-agent.svg)](https://make.fun) [![Bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![make.fun · u-motasimfuad-have-you-tried-turning-it-off-154a938b](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![rank](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/mohamad824/u-motasimfuad-have-you-tried-turning-it-off-154a938b-v2/rank.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![reward](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/mohamad824/u-motasimfuad-have-you-tried-turning-it-off-154a938b-v2/reward.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
 
 Bounty: https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b
